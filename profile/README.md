@@ -18,10 +18,9 @@ The system is built on top of XRP Ledger, an open-source blockchain tech which i
 For more information on the XRP Ledger, [head to the official documentation.](https://xrpl.org/)
 
 ### 3. Offline Support
-Although internet/data is necessary to connect the client apps within our system, specifically for making transactions, we look forward to implementing a USSD technology to give the user an offline experience for as many features as possible. We also plan to show details of one's loan with interest calculations made on the phone in case of low or no data connectivity. This will later get refreshed when there is internet connection.
+Although internet/data is necessary to connect the client apps within our system, specifically for making transactions, we look forward to implementing a USSD technology to give the user an offline experience for as many features as possible. We also plan to show details of one's loan with interest calculations made on the phone in case of low or no data connectivity. This will later be refreshed when there is an internet connection.
 
 ### 4. Language support
-
-
+We look forward to implementing language support for all target users (users from OCS) and make the system more usable.
 
 
