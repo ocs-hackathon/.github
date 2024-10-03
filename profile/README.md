@@ -1,8 +1,10 @@
 ## This is the public profile for this hackathon project
 
+>[!IMPORTANT]
+>The presentation for this project can be found [here](https://docs.google.com/presentation/d/1nbKCBrxfbhwERtSDl4vH4g6jE_UQsDdUkH4C68yPAOk/edit#slide=id.p).
+
 ### Project Description
 This project intends to build a system where users from countries under [OCS](https://osc.int/)(and more) get microloans by utilizing blockchain technology with XRP Ledger. Users are prompted to sign up, enter vital information, and be offered different loans once their data is confirmed. Users will also get new accounts on XRP Ledger which will be the key points of transactions. Loans to users from around the world will receive loans through these accounts which will be converted and transferred to bank accounts of their choice.
-
 
 ## Here are features planned to be included in this system
 
